@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Ad Skipper Guide",
+  "description": "An interactive guide that provides a corrected and improved Python script to automatically skip YouTube ads using Selenium. The app offers clear setup instructions and a one-click copy feature for the script and necessary commands.",
+  "requestFramePermissions": []
+}
